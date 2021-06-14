@@ -7,11 +7,33 @@ body{
 }
 
 .quem-somos{
-    background-color:rgba(0,0,0,.50)
+    background-color: #a8262642
 }
 
 .margin{
     padding-top: 48px;
     margin-top: 2px;
     padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #aa5e5e42;
+}
+
+#servicos .margin{
+    padding-top: 10px;
+    margin-top: 0px;
+}
+
+#parceiros .margin{
+    padding-top: 10px;
+}
+
+.servicos{
+    background-color: #aa5e5e42;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
